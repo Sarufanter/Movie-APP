@@ -15,10 +15,10 @@ A modern web application that allows you to discover popular movies and search f
 ## Screenshots
 
 ### Main Page
-![Light Theme](https://github.com/Sarufanter/Movie-APP/tree/main/public/screenshots/main-page.png)
+![Main Page](https://github.com/Sarufanter/Movie-APP/blob/main/public/screenshots/favorite-page.png)
 
 ### Favorite Page
-![Dark Theme](https://github.com/Sarufanter/Movie-APP/tree/main/publicscreenshots/favorite-page.png)
+![Favorite Page](https://github.com/Sarufanter/Movie-APP/blob/main/public/screenshots/main-page.png)
 
 
 ## Technologies
